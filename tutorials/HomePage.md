@@ -7,7 +7,7 @@ The Home page is designed to provide a snapshot overview of Key Performance Indi
 3. Alternatively, select the *Home* page from the main menu bar.
 
 ## Types of Home Pages
-The system offers 3 types of home pages for the primary user types. The type of Home Page is assigned to each account group using the [Account Groups feature](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Admin.md#admin-account-groups)
+The system offers 3 types of home pages for the primary user types. The type of Home Page is assigned to each account group using the [Account Groups feature](./Admin.md)
 1. Executive - Core mobile money business KPIs 
 2. Analyst - Control & Rule based KPIs
 3. IT - System health monitoring KPIs
