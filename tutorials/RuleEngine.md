@@ -37,8 +37,8 @@ Once you are on the *Detections* page
 
 ## Investigating Detections
 There are several different tools withi the Assure Fintech Web App that serve as investigation tools to further analyze suspect wallets and transaction events. 
-- See [Transaction Browser](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Transaction%20Browser.md)
+- See [Transaction Browser](./TransactionBrowser.md)
 - See Wallet Profiles (coming soon)
 
 ## Creating Alarms for Detections
-To configure alarm notifications for a given Rule, see the [Alarms Tutorial](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Alarms.md)
+To configure alarm notifications for a given Rule, see the [Alarms Tutorial](./Alarms.md)
