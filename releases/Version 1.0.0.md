@@ -2,7 +2,7 @@
 The initial product release is focused on features, reports, and tools required for Fintech Fraud Transaction Monitoring.
 
 ### Main Updates
-- Added [Rule Engine & Detections](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Rule%20Engine.md)
+- Added [Rule Engine & Detections](./tutorials/Rule%20Engine.md)
 - Added [Alarms for Rules](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Alarms.md)
 - Added [Transaction Browser](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Transaction%20Browser.md)
 - Added [Transaction Reports](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Transaction%20Reports.md)
