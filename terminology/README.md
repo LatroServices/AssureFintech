@@ -1,3 +1,5 @@
+*This Page is UNDER CONSTRUCTION*
+
 # Assure Fintech Terminology
 This section decribes definitions for terminology used across the Assure Fintech system. 
 
