@@ -4,9 +4,9 @@ The initial product release is focused on features, reports, and tools required 
 ### Main Updates
 - Added [Rule Engine & Detections](../tutorials/RuleEngine.md)
 - Added [Alarms for Rules](../tutorials/Alarms.md)
-- Added [Transaction Browser](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Transaction%20Browser.md)
-- Added [Transaction Reports](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Transaction%20Reports.md)
-- Added [Admin Tools](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Admin.md)
+- Added [Transaction Browser](../tutorials/TransactionBrowser.md)
+- Added [Transaction Reports](../tutorials/TransactionReports.md)
+- Added [Admin Tools](../tutorials/Admin.md)
 
 ### Other Updates
 - N/A
