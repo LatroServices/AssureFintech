@@ -25,7 +25,7 @@ The Admin pages primarily enable creation of new user accounts, assigning role b
 3.  Click the *Add Group* button at the bottom of the screen
 4.  Type the desired *Group Name*
 5.  Assign the desired *Home Page*
-  a. Refer to [Home Page](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Home%20Page.md#home-page) for details on each option.
+  a. Refer to [Home Page](./HomePage.md) for details on each option.
 6. Select *Full / Read Only / None* for each page
 7. Click *ADD*
 
