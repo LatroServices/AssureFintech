@@ -2,9 +2,9 @@
 Description
 
 ### Main Updates
-- Added filters to [Alarms Event List Page](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Alarms.md#alarm-event-list)
-- Added maximum window time limit to [Alarms Configuration](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Alarms.md#alarms-configuration)
-- Added [Home Page](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/Home%20Page.md)
+- Added filters to [Alarms Event List Page](../tutorials/Alarms.md)
+- Added maximum window time limit to [Alarms Configuration](../tutorials/Alarms.md)
+- Added [Home Page](../tutorials/HomePage.md)
   
 ### Other Updates
 - Text
