@@ -6,6 +6,6 @@ This section provides an overview of the available Assure Fintech releases.
 
 ## Release Version Key
 Example version 1.0.1
-| 1.          | 0.    | 1
+| 1.            | 0.            |      1       |
 | ------------- | ------------- |------------- |
 | MAJOR     | MINOR | PATCH |
