@@ -5,7 +5,9 @@ This section provides an overview of the available Assure Fintech releases.
 2. [Version 1.0.1](./Version1.0.1.md) - 23-January-2025 - *Minor Release*
 
 ## Release Version Key
-Example version 1.0.1
-| 1.            | 0.            |      1       |
-| ------------- | ------------- |------------- |
-| MAJOR     | MINOR | PATCH |
+Major.Minor.Patch
+Example:
+1.0.1
+Major release 1
+Minor release N/A
+Release Patch 1
