@@ -6,7 +6,7 @@ Assure Fintech is LATRO's dedicated Fintech reconciliation and fraud detection s
 
 ## Documentation Overview
 This documentation is intened to be used by the Assure Fintech web app users to serve as a guide for the different pages and functional features. The documentation includes:
-1. [Release Notes](https://github.com/LatroServices/test.github.io/blob/Releases/README.md)
+1. [Release Notes](./releases/README.md)
 2. [Tutorials: Web App](https://github.com/LatroServices/test.github.io/blob/Tutorials-Web-App/README.md)
 3. [Assure Fintech Terms & Definitions](https://github.com/LatroServices/test.github.io/blob/Terminology/README.md)
 
