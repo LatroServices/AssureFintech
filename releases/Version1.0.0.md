@@ -16,4 +16,5 @@ The initial product release is focused on features, reports, and tools required 
 
 ### Known Bugs
 - Home page is a static placeholder page and is not linked to actual data in the system.
-- Alarms > Summary page is a static placeholder page and is not linked to actual alarms in the system. 
+- Alarms > Summary page is a static placeholder page and is not linked to actual alarms in the system.
+- LogOut Button occasionally does not work 
