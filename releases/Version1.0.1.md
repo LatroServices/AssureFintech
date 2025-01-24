@@ -14,3 +14,4 @@ Description
 
 ### Known Bugs
 - Filter by Alarms Name on Event List Page is not functioning
+- LogOut Button occasionally does not work 
