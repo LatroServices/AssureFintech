@@ -1,7 +1,7 @@
 Under Construction... 
 
 ## Version 1.1.0 [DD-MM-YYYY]
-des
+description
 
 ### Main Updates
 - Added [Rate Management](../tutorials/RateManagement.md)
