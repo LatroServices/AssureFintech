@@ -7,3 +7,4 @@ This section lists tutorials for how to use the different features and pages on 
 5. [Transaction Reports](./TransactionReports.md)
 6. [Admin Tools](./Admin.md)
 7. [Home Page](./HomePage.md)
+8. [Rate Management](./RateManagement.md)
