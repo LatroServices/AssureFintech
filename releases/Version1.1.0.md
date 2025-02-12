@@ -1,6 +1,6 @@
 Under Construction... 
 
-## Version 1.1.0 [DD-MM-YYYY]
+## Version 1.1 [DD-MM-YYYY]
 description
 
 ### Main Updates
