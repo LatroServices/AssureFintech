@@ -1,4 +1,4 @@
-## Version 1.0.0 [17-January-2025]
+## Version 1.0 [17-January-2025]
 The initial product release is focused on features, reports, and tools required for Fintech Fraud Transaction Monitoring.
 
 ### Main Updates
