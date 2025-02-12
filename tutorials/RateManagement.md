@@ -1,12 +1,12 @@
 # Rate Management
-The Rate Management page provides the system user with front-end capabilities to define the business tariff fee plans and distribution/commission fee plans. Which are applied directly to corresponding Controls within the system. 
+The Rate Management page provides the system user with front-end capabilities to define business schemas relating to tariff fee plans and distribution/commission fee plans. These business schemas are applied directly to teh relevant re-rating controls.
 
-*Types of Rates*
+*Types of Rate Plans*
 1. Tariff Plan List
 2. Distribution Fees List
 
 *About Rate Plans*
-Rate plans are made up of two primary component, both of which can be maintained via the Rate Management page. 
+Rate plans are made up of two primary component:
 a) Plan Name
 b) Plan Entries
 
@@ -27,7 +27,7 @@ b) Plan Entries
 New Plan Names and new Plan Entries can either be uploaded in bulk or as a single entry.
 
 ### Single Entry - Plan Name
-1.Go to the desired Plan List page (Tariff Plan List or Distribution Plan List)
+1. Go to the desired Plan List page (Tariff Plan List or Distribution Plan List)
 2.  Click *Add New Plan* button
 3.  Using the pop-up window, provide the needed information for Plan Name, Service Category, Currency
   NOTE: For Tariff Plans, a maximum of one service category (CashIn/CashOut/Transfer/other) can be applied per plan
@@ -35,6 +35,17 @@ New Plan Names and new Plan Entries can either be uploaded in bulk or as a singl
 5. Click *Create*
 6. Now that a new Plan has been created, you must add plan entries
 
+### Bulk Upload - Plan Entries
+1. Go to the desired Plan List page (Tariff Plan List or Distribution Plan List)
+2. Click *Download Format* button
+3. Using the format defined in the downloaded CSV file, insert the desired plan entries
+  NOTE: There is no need to add a new plan name ahead of this step. Any new plan names will be automatically added during step #
+4. Click *Bulk Upload* button and select the disired CSV file to be uploaded
+5. Confirmation of the successful or failed upload will appear in a pop-up window
 
-
-
+### Single Entry - Plan Entry
+1. To add a single new plan entry to an existing plan, go to the desired plan list page
+2. Click on the desired plan name
+3. Click *Add Entry* button
+4. Using the pop-up window, provide the needed information
+5. Click *Save*
