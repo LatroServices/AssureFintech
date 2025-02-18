@@ -8,3 +8,4 @@ This section lists tutorials for how to use the different features and pages on 
 6. [Admin Tools](./Admin.md)
 7. [Home Page](./HomePage.md)
 8. [Rate Management](./RateManagement.md)
+9. [Data Feeds](./DataFeeds.md)
