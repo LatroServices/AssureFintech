@@ -1,7 +1,7 @@
 # Data Feeds Pages
 This page is intended to provide visibility to the front-end user into the different types of files that are being processed by the system backend. Additionally, the page provides insights into any file backlogs, outages, or delayws which might have direct impact into Control outputs. 
 
-## Data Feeds Main Page
+## Main Page
 1. Go to Reports > Data Feeds
 2. Use the date picker to select the desired date range
    
