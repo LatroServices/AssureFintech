@@ -47,5 +47,5 @@ Follow the steps below to create a new alarm in the Assure Fintech platform:
   - `Email Notification` (Yes/No)
   - `Enabled/Disabled` status
 
-- To review and monitor triggered alarms, click the **Event List** button at the top right of the page. This navigates you to the [Events list](../tutorials/EventList.md) , where you can view and manage all alarm events in detail.
+- To review and monitor triggered alarms, click the **Event List** button at the top right of the page. This navigates you to the [Events list](../tutorials/Eventlist.md) , where you can view and manage all alarm events in detail.
 
