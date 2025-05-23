@@ -13,7 +13,7 @@ The Control List Table displays all controls configured in the Assure Fintech in
 - **Reference Data**: the reference lists associated with the control with hyperlink to the corresponding reference list. 
 - **View Control Drill Down**: Hyperlink to the dedicated Control drill-down page. 
 - **Assigned User**: Indicates the owner or responsible user for this control.
-- **Edit**: Provides a pop up window to update the control description,Control KPI and Assigned user.
+- **Edit**: opens a pop up window to update the control description,Control KPI and Assigned user.
 
 ## Additional Actions
 
