@@ -1,4 +1,4 @@
-# Alarms
+# Alarm Config
 The Alarms feature provides the user with the ability to configure different types of alarm notification events for detection events resulting from the Rule Engine. This section includes three core components relating to alarms: Configuration, Event List, and Summary. 
 
 ## Alarms: Configuration
@@ -28,9 +28,3 @@ The Alarms feature provides the user with the ability to configure different typ
    a) Use the toggle *Enable/Disable* button on the *Alarm Configuration* page
    b) Or click the *Edit* button on the existing alarm and use the toggle button to *Enable* or *Disable*
 
-## Alarm: Event List
-### Viewing Triggered Alarms
-1. Go to Alarms > Event List page to view a complete list of all alarm events.
-2. Use the *View* button under *Alarm Details* to see information relating to the alarm event.
-3. Use the *View* button under *Detections/Control Page* to open the corresponding page and download additional information relating to the alarm.
-4. Change the Alarm status to Open/In Progress/Closed by using the *Edit* button under *Status*. This will also mark the timestamp of the status change.
