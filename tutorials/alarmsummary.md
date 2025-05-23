@@ -42,4 +42,4 @@ Tracks the average time taken to resolve alarms marked as "Closed" on a daily ba
 
 ## Notes
 
-- in the top of page there is two navigation buttons to [Events list](../tutorials/EventList.md)  and  [Alarms Configuration](../tutorials/Alarmsconfig.md).
+- in the top of page there is two navigation buttons to [Events list](../tutorials/Eventlist.md)  and  [Alarms Configuration](../tutorials/Alarmsconfig.md).
