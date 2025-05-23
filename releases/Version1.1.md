@@ -8,7 +8,8 @@ description
 - Added [Data Feeds and File Browser](../tutorials/DataFeeds.md)
 - Added [Control List Page](../tutorials/DataFeeds.md)
 - Added [Alarms for Controls](../tutorials/DataFeeds.md)
-- Added [Alarms Summary](../tutorials/DataFeeds.md) 
+- Added [Event List](../tutorials/Eventlist.md)
+- Added [Alarms Summary](../tutorials/alarmsummary.md) 
 
 ### Other Updates
 - [WU Reconciliation](../tutorials/DataFeeds.md) 
