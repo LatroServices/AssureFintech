@@ -20,9 +20,9 @@ The **Alarm Event List** page provides a detailed, searchable, and filterable li
 
 ---
 
-### Additional Features
+### Additional Capabilities:
 
-- search by **Alarm Name** to narrow down the list of events.
-- Click the **Reset Filters** button to clear all selections and return to the full list.
+- Search by **Alarm Name** to narrow down the list of events.
+- Click the **Reset Filters** button at the bottom of the page to clear all selections and return to the full list.
 
 ---
