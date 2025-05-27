@@ -1,5 +1,5 @@
-# Alarm Config
-The Alarms feature provides the user with the ability to configure different types of alarm notification events for detection events resulting from the Rule Engine and Control list or rate management engines. This section includes three core components relating to alarms: Configuration, Event List, and Summary. 
+# Alarm Configuration
+The Alarms Configuration feature provides the user with the ability to create different types of alarm events for detection events resulting from the Rule Engine or breaches in the count of exception records for Controls. This Alarms feature realtes to three core components: Alarm Configuration, Alarm Event List, and Alarm Summary. 
 
 ## Alarms: Configuration
 ### How to Create a New Alarm
