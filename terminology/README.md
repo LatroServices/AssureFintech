@@ -3,11 +3,11 @@ This section decribes definitions for terminology used across the Assure Fintech
 
 | Term | Definition |
 | --- | --- |
-| Detection | Identification of suspicious patterns or behaviors that may indicate fraudulent activity |
-| Alarm | System-generated alert triggered by detection rules or thresholds in either RA or FM context |
-| Event | An occurrence recorded in the RAFM system when an alarm is triggered due to a detection (FM) or exception (RA) |
+| Detection | Identification of suspicious patterns or behaviors that may indicate fraudulent activity. Generally relating to the Rule Engine |
+| Alarm | System-generated alert triggered by detection rules or threshold breaches |
+| Event | An occurrence recorded in the system when an alarm is triggered due to a detection (Rule Engine) or exception (Control) |
 | Reconciliation | Verification and alignment of data between two or more sources |
-| Rerating | Recalculation of previously applied charges or commissions |
-| Rule | Defined condition or logic used to manage or trigger alarms |
-| Exception | An identified mismatch or anomaly in revenue data deviating from predefined business rules or expected results |
-| KPI | Quantitative indicators used to track the performance and effectiveness of RA controls | 
+| Rerating / Rating | Recalculation of previously applied charges or commissions |
+| Rule | Defined condition or logic used to manage or trigger detections |
+| Exception | An identified mismatch or anomaly in data deviating from predefined business rules or expected results |
+| KPI | Quantitative indicators used to track the performance and effectiveness of Rules and Controls | 
