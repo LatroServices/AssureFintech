@@ -7,13 +7,13 @@ The Control List Table displays all controls configured in the Assure Fintech in
 - **Category**: Displays the dashboard location (Provisioning, Transaction, Commission & Fees, or Products & Services) for the control. 
 - **Control Name**: The unique name of the control.
 - **Control Type**: Indicates whether the control is for `Rating`, `Reconciliation`, or another type.
-- **Description**: A brief explanation of what the control validates or checks.
-- **Control KPI**: Shows the metric used to measure the effectiveness of the control.
+- **Description**: Text can be configured via the GUI using the EDIT feature. This field is intended to serve as a brief explanation of what the control validates.
+- **Control KPI**: Text can be configured via the GUI using the EDIT feature. This field is inteded to provide the metric/KPI value used to measure the effectiveness of the control.
 - **Data Sources**: Sources of data linked to the control.
-- **Reference Data**: the reference lists associated with the control with hyperlink to the corresponding reference list. 
+- **Reference Data**: The reference lists associated with the control with hyperlink to the corresponding reference list. 
 - **View Control Drill Down**: Hyperlink to the dedicated Control drill-down page. 
-- **Assigned User**: Indicates the owner or responsible user for this control.
-- **Edit**: opens a pop up window to update the control description,Control KPI and Assigned user.
+- **Assigned User**: Account can configured va the GUI using the EDIT feature. This field is intended to assign the user responsible user for each control.
+- **Edit**: Opens a pop up window to update the Control Description, Control KPI and Assigned User.
 
 ## Additional Actions
 
