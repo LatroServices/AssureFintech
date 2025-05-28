@@ -19,10 +19,10 @@ The **Alarms Summary** feature in Assure Fintech provides users with a centraliz
 ---
 
 ## Dashboard Tiles
-- Total Alarms: Displays the total number of alarm events for the selected date range and type.
-- Open: Displays the number of alarms with an “open” status in the selected date range and type.
-- Closed:  Displays the number of alarms with status as “closed” in the selected date range and type. 
-- Avg Alarm Lifetime: The average lifetime for the alarms from open date to closed date for the selected date range and type.
+- **Total Alarms:** Displays the total number of alarm events for the selected date range and type.
+- **Open:** Displays the number of alarms with an “open” status in the selected date range and type.
+- **Closed:**  Displays the number of alarms with status as “closed” in the selected date range and type. 
+- **Avg Alarm Lifetime:** The average lifetime for the alarms from open date to closed date for the selected date range and type.
 
 
 
